@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Fede",
+        "last": "Heredia",
+        "dni": 12325314,
+        "age": 28,
+        "email": "federico@gmail.com",
+        "user": "fede969",
+        "password": "clave1",
+        "wishlist": []
+    },
+    {
+        "name": "Mariana",
+        "last": "Arteaga",
+        "dni": 10325341,
+        "age": 25,
+        "email": "mariana@gmail.com",
+        "user": "mariana969",
+        "password": "clave2",
+        "wishlist": [
+            [
+                "papas",
+                "10",
+                "Mafalda"
+            ]
+        ]
+    },
+    {
+        "name": "Facu",
+        "last": "Aguero",
+        "dni": 12325315,
+        "age": 29,
+        "email": "facundo@gmail.com",
+        "user": "facu969",
+        "password": "clave3",
+        "wishlist": []
+    },
+    {
+        "name": "Agustin",
+        "last": "Rinaldi",
+        "dni": 45784562,
+        "age": 26,
+        "email": "rinaldi@gmail.com",
+        "user": "Agustin",
+        "password": "clave4",
+        "wishlist": []
+    }
+]
